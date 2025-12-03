@@ -22,4 +22,4 @@ The notebook:
 - `Navodita Mathur - Assessment Task.ipynb` – Colab notebook with the full implementation
 - `Navodita Mathur - Assessment Task.md` – This file
 
-Link - [!https://github.com/Navoditamathur/NavoditaMathur-AssessmentTask/][https://github.com/Navoditamathur/NavoditaMathur-AssessmentTask/]
+Link - <https://github.com/Navoditamathur/NavoditaMathur-AssessmentTask/>
