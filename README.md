@@ -23,3 +23,8 @@ The notebook:
 - `Navodita Mathur - Assessment Task.md` – This file
 
 Link - <https://github.com/Navoditamathur/NavoditaMathur-AssessmentTask/>
+
+## How to run 
+
+Open the notebook in Colab and Authenticate and run cells.
+The decision to convert one line/para at a time was strategic to avoid bullets and intend errors
